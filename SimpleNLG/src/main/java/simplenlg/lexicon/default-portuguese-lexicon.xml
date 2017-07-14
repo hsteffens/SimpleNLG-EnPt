@@ -1,0 +1,28 @@
+<lexicon>
+ 	<word>
+        <base>uma</base>
+        <category>determiner</category>
+        <id>E0006419</id>
+    </word>
+    <word>
+        <base>aula</base>
+        <category>noun</category>
+        <id>E0017217</id>
+    </word>
+    <word>
+        <base>eu</base>
+        <category>pronoun</category>
+    </word>
+    <word>
+        <base>ter</base>
+        <category>verb</category>
+        <id>E0030899</id>
+        <present3s>tem</present3s>
+        <intransitive/>
+        <past>teve</past>
+        <pastParticiple>tinha</pastParticiple>
+        <presentParticiple>tem</presentParticiple>
+        <future>terá</future>
+        <transitive/>
+    </word>
+</lexicon>
